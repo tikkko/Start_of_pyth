@@ -18,7 +18,7 @@ def module (x):
     x = abs(x)
     return x
 
-def sum (a, b):
+def suma (a, b):
     c = a + b
     print(c)
 
