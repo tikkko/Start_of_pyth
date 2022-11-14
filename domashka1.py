@@ -31,7 +31,8 @@ def positive (n):
         print('number is negative')
 
 
-if __name__ == '__main__':
+if __name__ == '__domashka1__':
+
    # compar(2, 3)
    # least(3, 4, 5)
    # modul(-10)
